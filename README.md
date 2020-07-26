@@ -1,2 +1,2 @@
 # Expert-System-in-Clips[BattleShip Game]
-Read the "relazioneCLIPS" to find out more!
+Read the "relazioneCLIPS.pdf" to find out more!
